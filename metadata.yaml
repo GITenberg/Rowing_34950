@@ -1,0 +1,63 @@
+_repo: Rowing_34950
+_version: 0.1.0
+contributor:
+  contributors:
+  - agent_name: Crum, W. E. (Walter Ewing)
+    alias: Crum, Walter Ewing
+    birthdate: 1865
+    deathdate: 1944
+    gutenberg_agent_id: '37340'
+    url: http://www.gutenberg.org/2009/agents/37340
+  - agent_name: Blackmore, Edwin Gordon
+    alias: Blackmore, E. G.
+    birthdate: 1837
+    gutenberg_agent_id: '37341'
+    url: http://www.gutenberg.org/2009/agents/37341
+  - agent_name: Davis, G. L.
+    gutenberg_agent_id: '37338'
+    url: http://www.gutenberg.org/2009/agents/37338
+  - agent_name: Nickalls, Guy
+    birthdate: 1866
+    deathdate: 1935
+    gutenberg_agent_id: '37337'
+    url: http://www.gutenberg.org/2009/agents/37337
+  - agent_name: Pitman, C. M.
+    gutenberg_agent_id: '37339'
+    url: http://www.gutenberg.org/2009/agents/37339
+covers:
+- cover_type: archival
+  image_path: 34950-h/images/i_cover.jpg
+creator:
+  author:
+    agent_name: Lehmann, R. C. (Rudolf Chambers)
+    aliases:
+    - Lehmann, Rudolph Chambers
+    - Lehmann, Rudolf Chambers
+    birthdate: 1856
+    deathdate: 1929
+    gutenberg_agent_id: '2742'
+    url: http://www.gutenberg.org/2009/agents/2742
+  editor:
+    agent_name: Robinson, Bertram
+    aliases:
+    - Robinson, B. Fletcher
+    - Robinson, B. F. (Bertram Fletcher)
+    birthdate: 1870
+    deathdate: 1907
+    gutenberg_agent_id: '37342'
+    url: http://www.gutenberg.org/2009/agents/37342
+description: ''
+gutenberg_issued: '2011-01-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34950'
+  lccn: '04036703'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'GV'
+- !lcsh 'Rowing'
+title: Rowing
+url: http://www.gutenberg.org/ebooks/34950
